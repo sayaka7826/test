@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T12:02:32.208Z",
-  "activeCount": 200,
+  "generatedAt": "2026-09-21T12:05:46.199Z",
+  "activeCount": 123,
   "members": [
     {
       "id": "m_80fef6a9",
@@ -368,69 +368,6 @@
       "status": "active"
     },
     {
-      "id": "m_c65e1fd7",
-      "name": "心咲めい",
-      "groupId": "ilife",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c1a06a3c",
-      "name": "双葉りつ",
-      "groupId": "ilife",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_cb471eff",
-      "name": "桜餅ふゆ",
-      "groupId": "ilife",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_32be5ffa",
-      "name": "琥珀しえる",
-      "groupId": "ilife",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_d10d05fc",
-      "name": "甘音ゆあ",
-      "groupId": "ilife",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_cd1510f3",
-      "name": "深月らむ",
-      "groupId": "ilife",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_bbef3a1e",
-      "name": "天羽しおり",
-      "groupId": "ilife",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_1b1040f5",
       "name": "辻野かなみ",
       "groupId": "chotokimeki-sendenbu",
@@ -484,42 +421,6 @@
       "eligible": true,
       "enabled": true,
       "status": "active"
-    },
-    {
-      "id": "m_b6197aa6",
-      "name": "永坂真心",
-      "groupId": "chotokimeki-sendenbu",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_afb5e7d5",
-      "name": "小高サラ",
-      "groupId": "chotokimeki-sendenbu",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_7d065050",
-      "name": "藤本ばんび",
-      "groupId": "chotokimeki-sendenbu",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_b552811c",
-      "name": "杏ジュリア",
-      "groupId": "chotokimeki-sendenbu",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
     },
     {
       "id": "m_b2facc9d",
@@ -608,15 +509,6 @@
       "eligible": true,
       "enabled": true,
       "status": "active"
-    },
-    {
-      "id": "m_095bbaaa",
-      "name": "佐竹のん乃",
-      "groupId": "equal-love",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
     },
     {
       "id": "m_7555d18c",
@@ -817,78 +709,6 @@
       "status": "active"
     },
     {
-      "id": "m_dcf69527",
-      "name": "大塚愛菜",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_de309662",
-      "name": "宮崎由加",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_9c8b4322",
-      "name": "梁川奈々美",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_de5213f5",
-      "name": "宮本佳林",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_66b08055",
-      "name": "高木紗友希",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_f710a08b",
-      "name": "金澤朋子",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_ebfb5b53",
-      "name": "稲場愛香",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_a7f1e9aa",
-      "name": "植村あかり",
-      "groupId": "juice-juice",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_e5560f62",
       "name": "段原瑠々",
       "groupId": "juice-juice",
@@ -1065,24 +885,6 @@
       "status": "graduated"
     },
     {
-      "id": "m_d5d0188a",
-      "name": "秋元真夏",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c8d5c9c1",
-      "name": "安藤美雲",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_b2cc120b",
       "name": "生田絵梨花",
       "groupId": "nogizaka46",
@@ -1105,48 +907,12 @@
       "status": "graduated"
     },
     {
-      "id": "m_c927c47c",
-      "name": "市來玲奈",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c322e27a",
-      "name": "伊藤寧々",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_a10e16f4",
       "name": "伊藤万理華",
       "groupId": "nogizaka46",
       "portrait": {
         "imageUrl": "https://www.asahicom.jp/edu/nogizaka46/img/profile/itoumarika_prof_14apr.jpg"
       },
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_816e9fc2",
-      "name": "井上小百合",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_5726e16e",
-      "name": "岩瀬佑美子",
-      "groupId": "nogizaka46",
-      "portrait": null,
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1163,111 +929,12 @@
       "status": "graduated"
     },
     {
-      "id": "m_a38addbd",
-      "name": "柏幸奈",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c9577a70",
-      "name": "川後陽菜",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c970c1c2",
-      "name": "川村真洋",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_e7a5ed05",
-      "name": "齋藤飛鳥",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_cd5bdc7f",
-      "name": "斉藤優里",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_dddf7ca5",
-      "name": "斎藤ちはる",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_cdd91b82",
-      "name": "桜井玲香",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_d4e5bc80",
       "name": "白石麻衣",
       "groupId": "nogizaka46",
       "portrait": {
         "imageUrl": "https://storage.mainichikirei.jp/w=720,h=518,f=webp:auto/images/2018/03/23/20180323dog00m100003000c/001_size6.jpg"
       },
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_e4fb3fda",
-      "name": "高山一実",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c284947c",
-      "name": "中田花奈",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_7d52c709",
-      "name": "中元日芽香",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_cfd1a20f",
-      "name": "永島聖羅",
-      "groupId": "nogizaka46",
-      "portrait": null,
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1284,48 +951,12 @@
       "status": "graduated"
     },
     {
-      "id": "m_d96a7891",
-      "name": "能條愛未",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_1347c98a",
       "name": "橋本奈々未",
       "groupId": "nogizaka46",
       "portrait": {
         "imageUrl": "https://48pedia.org/images/4/4f/2016年乃木坂46プロフィール_橋本奈々未_2.jpg"
       },
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_d3c16f8f",
-      "name": "畠中清羅",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_ceaf051d",
-      "name": "樋口日奈",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_d0a133f6",
-      "name": "深川麻衣",
-      "groupId": "nogizaka46",
-      "portrait": null,
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1353,237 +984,12 @@
       "status": "graduated"
     },
     {
-      "id": "m_c88f6e77",
-      "name": "宮澤成良",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c7096677",
-      "name": "大和里菜",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_5095df1b",
-      "name": "山本穂乃香",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c4f5b90b",
-      "name": "吉本彩華",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_da404e42",
-      "name": "若月佑美",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_e69c613a",
-      "name": "和田まあや",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_dd1de474",
-      "name": "西川七海",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_da03a8b3",
-      "name": "矢田里沙子",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_d736ab07",
-      "name": "米徳京花",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_d4ddacb1",
-      "name": "相楽伊織",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_a095f8d8",
-      "name": "伊藤かりん",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_7e3dcc4d",
-      "name": "佐々木琴子",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c6c22a66",
-      "name": "堀未央奈",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c3271030",
-      "name": "伊藤純奈",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_5b2c4695",
-      "name": "渡辺みり愛",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c8caf861",
-      "name": "寺田蘭世",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_ccad8d7c",
-      "name": "新内眞衣",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_dfe3f314",
-      "name": "北野日奈子",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_caef504e",
-      "name": "山﨑怜奈",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_e13bed27",
-      "name": "鈴木絢音",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c253d832",
-      "name": "中村麗乃",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c70daf5a",
-      "name": "大園桃子",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_c86d6a56",
       "name": "山下美月",
       "groupId": "nogizaka46",
       "portrait": {
         "imageUrl": "https://encount.press/wp-content/uploads/2026/07/25181232/ca3914b996da02a1263e4cdb35b0df30.jpg"
       },
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_e2bf4849",
-      "name": "阪口珠美",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_b68bb76f",
-      "name": "吉田綾乃クリスティー",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "active"
-    },
-    {
-      "id": "m_c4a16765",
-      "name": "向井葉月",
-      "groupId": "nogizaka46",
-      "portrait": null,
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1600,24 +1006,6 @@
       "status": "active"
     },
     {
-      "id": "m_c2755f00",
-      "name": "与田祐希",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_7dbe3cd2",
-      "name": "久保史緒里",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_a1946074",
       "name": "伊藤理々杏",
       "groupId": "nogizaka46",
@@ -1627,24 +1015,6 @@
       "eligible": true,
       "enabled": true,
       "status": "active"
-    },
-    {
-      "id": "m_ce691af5",
-      "name": "梅澤美波",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_a333bf1d",
-      "name": "佐藤楓",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
     },
     {
       "id": "m_3949bd89",
@@ -1669,15 +1039,6 @@
       "status": "active"
     },
     {
-      "id": "m_b6c83aca",
-      "name": "掛橋沙耶香",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_e0ebe90d",
       "name": "金川紗耶",
       "groupId": "nogizaka46",
@@ -1687,24 +1048,6 @@
       "eligible": true,
       "enabled": true,
       "status": "active"
-    },
-    {
-      "id": "m_c464db6e",
-      "name": "北川悠理",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_d0947523",
-      "name": "清宮レイ",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
     },
     {
       "id": "m_ce393be0",
@@ -1740,24 +1083,6 @@
       "status": "active"
     },
     {
-      "id": "m_ccf6c9c5",
-      "name": "早川聖来",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
-      "id": "m_c75da77c",
-      "name": "矢久保美緒",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_e77677e6",
       "name": "黒見明香",
       "groupId": "nogizaka46",
@@ -1769,15 +1094,6 @@
       "status": "active"
     },
     {
-      "id": "m_c345e6ef",
-      "name": "佐藤璃果",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
-    },
-    {
       "id": "m_a38cb29d",
       "name": "林瑠奈",
       "groupId": "nogizaka46",
@@ -1787,15 +1103,6 @@
       "eligible": true,
       "enabled": true,
       "status": "active"
-    },
-    {
-      "id": "m_cda89de5",
-      "name": "松尾美佑",
-      "groupId": "nogizaka46",
-      "portrait": null,
-      "eligible": true,
-      "enabled": true,
-      "status": "graduated"
     },
     {
       "id": "m_c9f96e8b",
