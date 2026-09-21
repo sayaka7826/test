@@ -11,6 +11,13 @@
     { "id": "fruits-zipper", "name": "FRUITS ZIPPER", "displayOrder": 7 },
     { "id": "cutie-street", "name": "Cutie Street", "displayOrder": 8 },
     { "id": "akb48", "name": "AKB48", "displayOrder": 9 },
-    { "id": "nogizaka46", "name": "乃木坂46", "displayOrder": 10 }
+    { "id": "nogizaka46", "name": "乃木坂46", "displayOrder": 10 },
+    { "id": "not-equal-me", "name": "≠ME", "displayOrder": 11 },
+    { "id": "niziu", "name": "NiziU", "displayOrder": 12 },
+    { "id": "xg", "name": "XG", "displayOrder": 13 },
+    { "id": "ive", "name": "IVE", "displayOrder": 14 },
+    { "id": "nmixx", "name": "NMIXX", "displayOrder": 15 },
+    { "id": "le-sserafim", "name": "LE SSERAFIM", "displayOrder": 16 },
+    { "id": "illit", "name": "ILLIT", "displayOrder": 17 }
   ]
 }

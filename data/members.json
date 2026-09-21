@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T12:26:30.455Z",
-  "activeCount": 123,
+  "generatedAt": "2026-09-21T13:58:04.449Z",
+  "activeCount": 159,
   "members": [
     {
       "id": "m_80fef6a9",
@@ -1352,6 +1352,402 @@
       "groupId": "nogizaka46",
       "portrait": {
         "imageUrl": "https://img.neirong.plus/o/54/e7/54e729a06f9211f1870063e80946a1fa.png"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_23ba799a",
+      "name": "KIM CHAE WON",
+      "groupId": "le-sserafim",
+      "portrait": {
+        "imageUrl": "https://officialsite.cds-jp.online/prod/profile_member/104/212/55520d418ece4838bf406dcb8fed4911.webp"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_1a745300",
+      "name": "宮脇咲良",
+      "groupId": "le-sserafim",
+      "portrait": {
+        "imageUrl": "https://officialsite.cds-jp.online/prod/profile_member/104/213/11770264ff8d4e549f0b799c297a8cb5.webp"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_83b74ad2",
+      "name": "HUH YUN JIN",
+      "groupId": "le-sserafim",
+      "portrait": {
+        "imageUrl": "https://officialsite.cds-jp.online/prod/profile_member/104/214/c5a6a1146c56455783b7f4f04c418f5d.webp"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_1dd51374",
+      "name": "KAZUHA",
+      "groupId": "le-sserafim",
+      "portrait": {
+        "imageUrl": "https://officialsite.cds-jp.online/prod/profile_member/104/215/80a76a0437e3497ebb2e835caae7d87a.webp"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_369accc1",
+      "name": "HONG EUN CHAE",
+      "groupId": "le-sserafim",
+      "portrait": {
+        "imageUrl": "https://officialsite.cds-jp.online/prod/profile_member/104/216/62439fc4dbb04ff2a4ed1f90c69ff188.webp"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_610b9645",
+      "name": "尾木 波菜",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/ogi_hana_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_f2cf1ca9",
+      "name": "落合 希来里",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/ochiai_kirari_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_cbc96250",
+      "name": "蟹沢 萌子",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/kanisawa_moeko_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_402fa729",
+      "name": "河口 夏音",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/kawaguchi_natsune_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_4015ded8",
+      "name": "川中子 奈月心",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/kawanago_natsumi_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_2588a0fb",
+      "name": "櫻井 もも",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/sakurai_momo_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_59752c3c",
+      "name": "鈴木 瞳美",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/suzuki_hitomi_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_0078be4b",
+      "name": "谷崎 早耶",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/tanizaki_saya_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_76008b52",
+      "name": "冨田 菜々風",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/tomita_nanaka_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c9d8172a",
+      "name": "永田 詩央里",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/nagata_shiori_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_2cd19916",
+      "name": "本田 珠由記",
+      "groupId": "not-equal-me",
+      "portrait": {
+        "imageUrl": "https://not-equal-me.jp/image/profile/honda_miyuki_thumb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_4d9e5005",
+      "name": "YUNAH",
+      "groupId": "illit",
+      "portrait": {
+        "imageUrl": "https://image.weversejapan.com/official/live/illit/contents/profile/10/a7e76e10ea6d42a0ac47e442faca6a7c.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_4cefc2a9",
+      "name": "MINJU",
+      "groupId": "illit",
+      "portrait": {
+        "imageUrl": "https://image.weversejapan.com/official/live/illit/contents/profile/10/a5c02ce5201a4054a08e03051a60edd1.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_a7a4b94c",
+      "name": "MOKA",
+      "groupId": "illit",
+      "portrait": {
+        "imageUrl": "https://image.weversejapan.com/official/live/illit/contents/profile/10/021f111a04fc4fc5a555be24e3a0334e.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_626d8c86",
+      "name": "WONHEE",
+      "groupId": "illit",
+      "portrait": {
+        "imageUrl": "https://image.weversejapan.com/official/live/illit/contents/profile/10/09bfd4266f9848e59c63f6c67f501e63.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_4cbb7f6b",
+      "name": "IROHA",
+      "groupId": "illit",
+      "portrait": {
+        "imageUrl": "https://image.weversejapan.com/official/live/illit/contents/profile/10/547790d389534447b9ac6748e7d56971.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_03e3fc83",
+      "name": "MAKO",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/6f7/180ef6f92037ce210cc14fbcc3b72.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c651c10d",
+      "name": "RIO",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/37d/f655b3b51a41e13f3da3882066939.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_03e3fe27",
+      "name": "MAYA",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/57c/89351cc3c7e26e8436d6a68691af5.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_03e6606c",
+      "name": "RIKU",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/ccb/ebc525256e33685712590becf8405.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_77fd3cf4",
+      "name": "AYAKA",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/a0c/1f933189d17cc6cbf03a7b1c02747.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_9add64d1",
+      "name": "MAYUKA",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/60f/9163d34f32b89bf0e6901c3c970a1.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_03e66096",
+      "name": "RIMA",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/789/306e3b34cbe43c6ab5d96369e77cb.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_789f2ec3",
+      "name": "MIIHI",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/46a/a80757500b698147f4e29dd308ecd.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_03e48f39",
+      "name": "NINA",
+      "groupId": "niziu",
+      "portrait": {
+        "imageUrl": "https://niziu.com/images/4/1a0/17f4b16f3d74631d9457cbb3ce71c.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_b1625e94",
+      "name": "LILY",
+      "groupId": "nmixx",
+      "portrait": {
+        "imageUrl": "https://d1meds70430yck.cloudfront.net/artists/nmixx/profiles/1777042449390-f77243f7.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_dafdbed4",
+      "name": "HAEWON",
+      "groupId": "nmixx",
+      "portrait": {
+        "imageUrl": "https://d1meds70430yck.cloudfront.net/artists/nmixx/profiles/1777042456467-3b884da3.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_b68e6ba1",
+      "name": "SULLYOON",
+      "groupId": "nmixx",
+      "portrait": {
+        "imageUrl": "https://d1meds70430yck.cloudfront.net/artists/nmixx/profiles/1777042462763-be9288ce.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_500b47dc",
+      "name": "BAE",
+      "groupId": "nmixx",
+      "portrait": {
+        "imageUrl": "https://d1meds70430yck.cloudfront.net/artists/nmixx/profiles/1777042468612-0c85ce9b.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_7acd6d4e",
+      "name": "JIWOO",
+      "groupId": "nmixx",
+      "portrait": {
+        "imageUrl": "https://d1meds70430yck.cloudfront.net/artists/nmixx/profiles/1777042474189-690b0f09.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e1759132",
+      "name": "KYUJIN",
+      "groupId": "nmixx",
+      "portrait": {
+        "imageUrl": "https://d1meds70430yck.cloudfront.net/artists/nmixx/profiles/1777042480509-57f474da.jpg"
       },
       "eligible": true,
       "enabled": true,
