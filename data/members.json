@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T14:08:18.620Z",
-  "activeCount": 164,
+  "generatedAt": "2026-09-21T14:08:50.342Z",
+  "activeCount": 177,
   "members": [
     {
       "id": "m_80fef6a9",
@@ -1737,6 +1737,149 @@
       "groupId": "niziu",
       "portrait": {
         "imageUrl": "https://niziu.com/images/4/1a0/17f4b16f3d74631d9457cbb3ce71c.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_af0a42bd",
+      "name": "JURIN",
+      "groupId": "xg",
+      "portrait": {
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/fl8dgvpvkaem-l9-64bde6cc40083.jpeg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_aea194c3",
+      "name": "CHISA",
+      "groupId": "xg",
+      "portrait": {
+        "imageUrl": "https://www.nehannn.com/img/artist/1665/1665-0.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_2e295b10",
+      "name": "HINATA",
+      "groupId": "xg",
+      "portrait": {
+        "imageUrl": "https://www.nehannn.com/img/artist/1666/1666-0.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_2dbabda0",
+      "name": "HARVEY",
+      "groupId": "xg",
+      "portrait": {
+        "imageUrl": "https://www.nehannn.com/img/artist/1667/1667-0.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_af0a42b0",
+      "name": "JURIA",
+      "groupId": "xg",
+      "portrait": {
+        "imageUrl": "https://kasioda.com/wp-content/uploads/2022/03/ジュリア①.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_607d468b",
+      "name": "MAYA",
+      "groupId": "xg",
+      "portrait": {
+        "imageUrl": "https://www.nehannn.com/img/artist/1669/1669-0.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_25f0e0ba",
+      "name": "COCONA",
+      "groupId": "xg",
+      "portrait": {
+        "imageUrl": "https://kasioda.com/wp-content/uploads/2022/03/ココナ①.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_64d116d8",
+      "name": "An Yujin",
+      "groupId": "ive",
+      "portrait": {
+        "imageUrl": "https://www.nehannn.com/img/artist/49/49-0.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e8b9eb6a",
+      "name": "Gaeul",
+      "groupId": "ive",
+      "portrait": {
+        "imageUrl": "https://i.pinimg.com/736x/94/16/55/9416555061ee8129d586bb2a47994b01.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ad211f5e",
+      "name": "Rei",
+      "groupId": "ive",
+      "portrait": {
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/rei-13-65b7600ae6183.jpeg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_fd1f751a",
+      "name": "Jang Wonyoung",
+      "groupId": "ive",
+      "portrait": {
+        "imageUrl": "https://m.media-amazon.com/images/I/61JArkW05TL._AC_UF894,1000_QL80_.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ad210965",
+      "name": "Liz",
+      "groupId": "ive",
+      "portrait": {
+        "imageUrl": "https://kasioda.com/wp-content/uploads/2021/12/liz.jpeg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_37441309",
+      "name": "Leeseo",
+      "groupId": "ive",
+      "portrait": {
+        "imageUrl": "https://img.sbs.co.kr/newsnet/etv/upload/2025/12/03/30001030212_1280.jpg"
       },
       "eligible": true,
       "enabled": true,
