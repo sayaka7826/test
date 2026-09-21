@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T12:05:46.199Z",
+  "generatedAt": "2026-09-21T12:26:30.455Z",
   "activeCount": 123,
   "members": [
     {
@@ -933,7 +933,7 @@
       "name": "白石麻衣",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://storage.mainichikirei.jp/w=720,h=518,f=webp:auto/images/2018/03/23/20180323dog00m100003000c/001_size6.jpg"
+        "imageUrl": "https://contents.oricon.co.jp/upimg/news/20190612/2137434_201906120256971001560294017e.jpg"
       },
       "eligible": true,
       "enabled": true,
@@ -999,7 +999,7 @@
       "name": "岩本蓮加",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/1f/56/1f56b3006f9211f18921a32fa8222562.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1010,7 +1010,7 @@
       "name": "伊藤理々杏",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/1b/83/1b8363e06f9211f1b5a9577a943cdf3e.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1021,7 +1021,7 @@
       "name": "遠藤さくら",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/21/35/21355e106f9211f18921a32fa8222562.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1032,7 +1032,7 @@
       "name": "賀喜遥香",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/31/36/3136f6706f9211f1b96d992468be6bc1.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1043,7 +1043,7 @@
       "name": "金川紗耶",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/33/58/335828c06f9211f1b5a9577a943cdf3e.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1054,7 +1054,7 @@
       "name": "柴田柚菜",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/3b/ae/3baedd206f9211f1b5a9577a943cdf3e.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1065,7 +1065,7 @@
       "name": "田村真佑",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/46/ac/46ace3c06f9211f18f1ac9b395e45626.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1076,7 +1076,7 @@
       "name": "筒井あやめ",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/48/80/48806b406f9211f1b5a9577a943cdf3e.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1087,7 +1087,7 @@
       "name": "黒見明香",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/39/58/3958b8206f9211f1b37683b549e0dca5.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1098,7 +1098,7 @@
       "name": "林瑠奈",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/4f/c0/4fc058706f9211f1b681fd35d3089931.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1109,7 +1109,7 @@
       "name": "弓木奈於",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/56/9d/569db3406f9211f1b35437da77a32b79.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1120,7 +1120,7 @@
       "name": "井上和",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/1d/68/1d689ea06f9211f18bb57b73f2931f7b.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1131,7 +1131,7 @@
       "name": "一ノ瀬美空",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/19/81/198104306f9211f1870063e80946a1fa.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1142,7 +1142,7 @@
       "name": "池田瑛紗",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/16/68/1668c7b06f9211f1bd7c69cd7a912086.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1153,7 +1153,7 @@
       "name": "五百城茉央",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/09/52/0952dd906f9211f19bb035c4df4a4de3.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1164,7 +1164,7 @@
       "name": "川﨑桜",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/35/54/35546df06f9211f199045d41333c5755.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1175,7 +1175,7 @@
       "name": "菅原咲月",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/40/d3/40d364606f9211f1b35437da77a32b79.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1186,7 +1186,7 @@
       "name": "冨里奈央",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/4a/41/4a412e106f9211f1b35437da77a32b79.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1197,7 +1197,7 @@
       "name": "中西アルノ",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/4d/ea/4dea5ff06f9211f1b96d992468be6bc1.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1208,7 +1208,7 @@
       "name": "奥田いろは",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/2b/3c/2b3c5a806f9211f1b96d992468be6bc1.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1219,7 +1219,7 @@
       "name": "小川彩",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/29/22/29227b306f9211f1bd7c69cd7a912086.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1230,7 +1230,7 @@
       "name": "岡本姫奈",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/24/f1/24f17bb06f9211f199045d41333c5755.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1241,7 +1241,7 @@
       "name": "愛宕心響",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/06/82/068231606f9211f1b5a9577a943cdf3e.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1252,7 +1252,7 @@
       "name": "大越ひなの",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/22/fa/22fa8db06f9211f18bb57b73f2931f7b.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1263,7 +1263,7 @@
       "name": "小津玲奈",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/2d/2a/2d2a6ee06f9211f199045d41333c5755.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1274,7 +1274,7 @@
       "name": "海邉朱莉",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/2f/18/2f18d1606f9211f19bb035c4df4a4de3.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1285,7 +1285,7 @@
       "name": "川端晃菜",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/37/61/37617c006f9211f1bd7c69cd7a912086.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1296,7 +1296,7 @@
       "name": "鈴木佑捺",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/42/cb/42cb8ae06f9211f199045d41333c5755.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1307,7 +1307,7 @@
       "name": "瀬戸口心月",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/44/ba/44bad7c06f9211f1870063e80946a1fa.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1318,7 +1318,7 @@
       "name": "長嶋凛桜",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/4c/15/4c15c7006f9211f199045d41333c5755.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1329,7 +1329,7 @@
       "name": "増田三莉音",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/3b/b4/3bb449e01e8911f1b45a3dd799d0c837.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1340,7 +1340,7 @@
       "name": "森平麗心",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/51/af/51afcc606f9211f1b37683b549e0dca5.png"
       },
       "eligible": true,
       "enabled": true,
@@ -1351,7 +1351,7 @@
       "name": "矢田萌華",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://sp.nogizaka46.com/og.png"
+        "imageUrl": "https://img.neirong.plus/o/54/e7/54e729a06f9211f1870063e80946a1fa.png"
       },
       "eligible": true,
       "enabled": true,
