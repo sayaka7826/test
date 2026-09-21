@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "2026-09-21",
+  "groups": [
+    { "id": "equal-love", "name": "=LOVE", "displayOrder": 1 },
+    { "id": "candytune", "name": "CANDY TUNE", "displayOrder": 2 },
+    { "id": "ilife", "name": "iL!FE", "displayOrder": 3 },
+    { "id": "juice-juice", "name": "Juice=Juice", "displayOrder": 4 },
+    { "id": "chotokimeki-sendenbu", "name": "超ときめき♡宣伝部", "displayOrder": 5 },
+    { "id": "kyururintte-shitemite", "name": "きゅるりんってしてみて。", "displayOrder": 6 },
+    { "id": "fruits-zipper", "name": "FRUITS ZIPPER", "displayOrder": 7 },
+    { "id": "cutie-street", "name": "Cutie Street", "displayOrder": 8 },
+    { "id": "akb48", "name": "AKB48", "displayOrder": 9 },
+    { "id": "nogizaka46", "name": "乃木坂46", "displayOrder": 10 }
+  ]
+}

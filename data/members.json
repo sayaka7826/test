@@ -1,0 +1,1661 @@
+{
+  "schemaVersion": 1,
+  "datasetVersion": "2026-09-21",
+  "generatedAt": "2026-09-21T10:03:43.441Z",
+  "activeCount": 183,
+  "members": [
+    {
+      "id": "m_bfb12226",
+      "name": "桐原美月",
+      "groupId": "candytune",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c7a6523a",
+      "name": "福山梨乃",
+      "groupId": "candytune",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_8dd70908",
+      "name": "小川奈々子",
+      "groupId": "candytune",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_bb891bd4",
+      "name": "南なつ",
+      "groupId": "candytune",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c8c70c99",
+      "name": "立花琴未",
+      "groupId": "candytune",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_bbb49c7c",
+      "name": "宮野静",
+      "groupId": "candytune",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_bf6373ed",
+      "name": "村川緋杏",
+      "groupId": "candytune",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c70acb73",
+      "name": "心花りり",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_1e759552",
+      "name": "あいす",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d1ffcb7d",
+      "name": "福丸うさ",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d70934fd",
+      "name": "若葉のあ",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_96460bbe",
+      "name": "空詩かれん",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d8988995",
+      "name": "虹羽みに",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d3d39bb9",
+      "name": "純嶺みき",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c51b76c2",
+      "name": "小熊まむ",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_51ae9672",
+      "name": "真守みゅう",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c65e1fd7",
+      "name": "心咲めい",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c1a06a3c",
+      "name": "双葉りつ",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_cb471eff",
+      "name": "桜餅ふゆ",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_32be5ffa",
+      "name": "琥珀しえる",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d10d05fc",
+      "name": "甘音ゆあ",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_cd1510f3",
+      "name": "深月らむ",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_bbef3a1e",
+      "name": "天羽しおり",
+      "groupId": "ilife",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_1b1040f5",
+      "name": "辻野かなみ",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ac6d0063",
+      "name": "坂井仁香",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hitoka_Sakai_on_2022.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_af150086",
+      "name": "小泉遥香",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Haruka_Koizumi_on_2022.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ba3d49e8",
+      "name": "吉川ひより",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c13bf8dc",
+      "name": "菅田愛貴",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Aki_Suda_on_2022.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_b6197aa6",
+      "name": "永坂真心",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_afb5e7d5",
+      "name": "小高サラ",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_7d065050",
+      "name": "藤本ばんび",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_b552811c",
+      "name": "杏ジュリア",
+      "groupId": "chotokimeki-sendenbu",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_b2facc9d",
+      "name": "古澤里紗",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_b1606986",
+      "name": "佐野愛花",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_bb6608b5",
+      "name": "板倉可奈",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_b52c30c5",
+      "name": "増田彩乃",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_b760c030",
+      "name": "川本笑瑠",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_bc642604",
+      "name": "梅田みゆ",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c37c8ca6",
+      "name": "真鍋凪咲",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_bc08f00f",
+      "name": "桜庭遥花",
+      "groupId": "cutie-street",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_095bbaaa",
+      "name": "佐竹のん乃",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_7555d18c",
+      "name": "齊藤なぎさ",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_9caee423",
+      "name": "大谷映美里",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_56e2c163",
+      "name": "大場花菜",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_73828d93",
+      "name": "音嶋莉沙",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_7643231f",
+      "name": "齋藤樹愛羅",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e820f583",
+      "name": "佐々木舞香",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_7fa4e1c3",
+      "name": "髙松瞳",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_61ef6f16",
+      "name": "瀧脇笙古",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_7093ea51",
+      "name": "野口衣織",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_6dc90294",
+      "name": "諸橋沙夏",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_5896375f",
+      "name": "山本杏奈",
+      "groupId": "equal-love",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_946ad19f",
+      "name": "月足天音",
+      "groupId": "fruits-zipper",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_6c32276b",
+      "name": "鎮西寿々歌",
+      "groupId": "fruits-zipper",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_95486dbd",
+      "name": "櫻井優衣",
+      "groupId": "fruits-zipper",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_88c763e4",
+      "name": "仲川瑠夏",
+      "groupId": "fruits-zipper",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_9ac76be4",
+      "name": "真中まな",
+      "groupId": "fruits-zipper",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ed45015a",
+      "name": "松本かれん",
+      "groupId": "fruits-zipper",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_db1318c4",
+      "name": "早瀬ノエル",
+      "groupId": "fruits-zipper",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_dcf69527",
+      "name": "大塚愛菜",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_de309662",
+      "name": "宮崎由加",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_9c8b4322",
+      "name": "梁川奈々美",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_de5213f5",
+      "name": "宮本佳林",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_66b08055",
+      "name": "高木紗友希",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_f710a08b",
+      "name": "金澤朋子",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_ebfb5b53",
+      "name": "稲場愛香",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_a7f1e9aa",
+      "name": "植村あかり",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e5560f62",
+      "name": "段原瑠々",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_dfcbae9c",
+      "name": "工藤由愛",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e3cbaa7c",
+      "name": "松永里愛",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d8041f09",
+      "name": "井上玲音",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e39b409d",
+      "name": "有澤一華",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e633cdb2",
+      "name": "江端妃咲",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d9c0a933",
+      "name": "入江里咲",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_eb044b0e",
+      "name": "石山咲良",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e0b3aefe",
+      "name": "遠藤彩加里",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_df31df06",
+      "name": "川嶋美楓",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_38e2223e",
+      "name": "林仁愛",
+      "groupId": "juice-juice",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_3b272353",
+      "name": "島村嬉唄",
+      "groupId": "kyururintte-shitemite",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_1b00ef9c",
+      "name": "環やね",
+      "groupId": "kyururintte-shitemite",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_263cd2f0",
+      "name": "チバゆな",
+      "groupId": "kyururintte-shitemite",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e05f6666",
+      "name": "逃げ水あむ",
+      "groupId": "kyururintte-shitemite",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_366f2f64",
+      "name": "兎遊たお",
+      "groupId": "kyururintte-shitemite",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d5d0188a",
+      "name": "秋元真夏",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c8d5c9c1",
+      "name": "安藤美雲",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_b2cc120b",
+      "name": "生田絵梨花",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d4c408b1",
+      "name": "生駒里奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c927c47c",
+      "name": "市來玲奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c322e27a",
+      "name": "伊藤寧々",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_a10e16f4",
+      "name": "伊藤万理華",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_816e9fc2",
+      "name": "井上小百合",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_5726e16e",
+      "name": "岩瀬佑美子",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_dd355c26",
+      "name": "衛藤美彩",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_a38addbd",
+      "name": "柏幸奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c9577a70",
+      "name": "川後陽菜",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c970c1c2",
+      "name": "川村真洋",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e7a5ed05",
+      "name": "齋藤飛鳥",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_cd5bdc7f",
+      "name": "斉藤優里",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_dddf7ca5",
+      "name": "斎藤ちはる",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_cdd91b82",
+      "name": "桜井玲香",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d4e5bc80",
+      "name": "白石麻衣",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e4fb3fda",
+      "name": "高山一実",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c284947c",
+      "name": "中田花奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_7d52c709",
+      "name": "中元日芽香",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_cfd1a20f",
+      "name": "永島聖羅",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_dde0e2da",
+      "name": "西野七瀬",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d96a7891",
+      "name": "能條愛未",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_1347c98a",
+      "name": "橋本奈々未",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d3c16f8f",
+      "name": "畠中清羅",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_ceaf051d",
+      "name": "樋口日奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d0a133f6",
+      "name": "深川麻衣",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_eb45b083",
+      "name": "星野みなみ",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_ec2dabdf",
+      "name": "松村沙友理",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c88f6e77",
+      "name": "宮澤成良",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c7096677",
+      "name": "大和里菜",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_5095df1b",
+      "name": "山本穂乃香",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c4f5b90b",
+      "name": "吉本彩華",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_da404e42",
+      "name": "若月佑美",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e69c613a",
+      "name": "和田まあや",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_dd1de474",
+      "name": "西川七海",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_da03a8b3",
+      "name": "矢田里沙子",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d736ab07",
+      "name": "米徳京花",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d4ddacb1",
+      "name": "相楽伊織",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_a095f8d8",
+      "name": "伊藤かりん",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_7e3dcc4d",
+      "name": "佐々木琴子",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c6c22a66",
+      "name": "堀未央奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c3271030",
+      "name": "伊藤純奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_5b2c4695",
+      "name": "渡辺みり愛",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c8caf861",
+      "name": "寺田蘭世",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_ccad8d7c",
+      "name": "新内眞衣",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_dfe3f314",
+      "name": "北野日奈子",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_caef504e",
+      "name": "山﨑怜奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e13bed27",
+      "name": "鈴木絢音",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c253d832",
+      "name": "中村麗乃",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c70daf5a",
+      "name": "大園桃子",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c86d6a56",
+      "name": "山下美月",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e2bf4849",
+      "name": "阪口珠美",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_b68bb76f",
+      "name": "吉田綾乃クリスティー",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c4a16765",
+      "name": "向井葉月",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c8e5c637",
+      "name": "岩本蓮加",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c2755f00",
+      "name": "与田祐希",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_7dbe3cd2",
+      "name": "久保史緒里",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_a1946074",
+      "name": "伊藤理々杏",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ce691af5",
+      "name": "梅澤美波",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_a333bf1d",
+      "name": "佐藤楓",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_3949bd89",
+      "name": "遠藤さくら",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_de81c792",
+      "name": "賀喜遥香",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_b6c83aca",
+      "name": "掛橋沙耶香",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e0ebe90d",
+      "name": "金川紗耶",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c464db6e",
+      "name": "北川悠理",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_d0947523",
+      "name": "清宮レイ",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_ce393be0",
+      "name": "柴田柚菜",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d40ae7d5",
+      "name": "田村真佑",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_f7724c3a",
+      "name": "筒井あやめ",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ccf6c9c5",
+      "name": "早川聖来",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c75da77c",
+      "name": "矢久保美緒",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e77677e6",
+      "name": "黒見明香",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c345e6ef",
+      "name": "佐藤璃果",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_a38cb29d",
+      "name": "林瑠奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_cda89de5",
+      "name": "松尾美佑",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_c9f96e8b",
+      "name": "弓木奈於",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_a32a28f5",
+      "name": "井上和",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_6c3da8a8",
+      "name": "一ノ瀬美空",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d03d4cce",
+      "name": "池田瑛紗",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_93b5ad47",
+      "name": "五百城茉央",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_a3786ee6",
+      "name": "川﨑桜",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_da5dd272",
+      "name": "菅原咲月",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c47ffcec",
+      "name": "冨里奈央",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_96109391",
+      "name": "中西アルノ",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_2aeb80d9",
+      "name": "奥田いろは",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_a35eb559",
+      "name": "小川彩",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c8dcf48a",
+      "name": "岡本姫奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_cabb57d8",
+      "name": "愛宕心響",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_32944971",
+      "name": "大越ひなの",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c8b4212e",
+      "name": "小津玲奈",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d12137cc",
+      "name": "海邉朱莉",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_c9b8720d",
+      "name": "川端晃菜",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e136249f",
+      "name": "鈴木佑捺",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_63d1181a",
+      "name": "瀬戸口心月",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_e28df3b7",
+      "name": "長嶋凛桜",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_200ecb98",
+      "name": "増田三莉音",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_ce5c01f3",
+      "name": "森平麗心",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_d57a6753",
+      "name": "矢田萌華",
+      "groupId": "nogizaka46",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    }
+  ]
+}
