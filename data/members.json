@@ -1,9 +1,162 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T10:03:43.441Z",
-  "activeCount": 183,
+  "generatedAt": "2026-09-21T10:08:53.669Z",
+  "activeCount": 200,
   "members": [
+    {
+      "id": "m_80fef6a9",
+      "name": "前田敦子",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_83bee491",
+      "name": "大島優子",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e99932f3",
+      "name": "篠田麻里子",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_8b0aebce",
+      "name": "板野友美",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_97638205",
+      "name": "高橋みなみ",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_8a933924",
+      "name": "柏木由紀",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_851bd597",
+      "name": "小嶋陽菜",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_85825ae8",
+      "name": "島崎遥香",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_6fa86e32",
+      "name": "山本彩",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_3377c40f",
+      "name": "渡辺美優紀",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_b82d12ef",
+      "name": "松井珠理奈",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_8a11d529",
+      "name": "松井玲奈",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_856cf912",
+      "name": "宮脇咲良",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_881f0b8e",
+      "name": "指原莉乃",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_853d7920",
+      "name": "小栗有以",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_81a71419",
+      "name": "千葉恵里",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_7fc451c9",
+      "name": "伊藤百花",
+      "groupId": "akb48",
+      "portrait": null,
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
     {
       "id": "m_bfb12226",
       "name": "桐原美月",
