@@ -18,6 +18,7 @@
     { "id": "ive", "name": "IVE", "displayOrder": 14 },
     { "id": "nmixx", "name": "NMIXX", "displayOrder": 15 },
     { "id": "le-sserafim", "name": "LE SSERAFIM", "displayOrder": 16 },
-    { "id": "illit", "name": "ILLIT", "displayOrder": 17 }
+    { "id": "illit", "name": "ILLIT", "displayOrder": 17 },
+    { "id": "hinatazaka46", "name": "日向坂46", "displayOrder": 18 }
   ]
 }

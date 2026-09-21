@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T14:08:50.342Z",
-  "activeCount": 177,
+  "generatedAt": "2026-09-21T14:19:34.055Z",
+  "activeCount": 179,
   "members": [
     {
       "id": "m_80fef6a9",
@@ -703,6 +703,28 @@
       "groupId": "fruits-zipper",
       "portrait": {
         "imageUrl": "https://asobisystem.com/wp-content/uploads/2022/07/hayase2026_mainthum.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_cfde8af8",
+      "name": "加藤史帆",
+      "groupId": "hinatazaka46",
+      "portrait": {
+        "imageUrl": "https://n46llc-seedandflowerllc.com/images/36/ec3/98c5f6c4627740cc73752989e6f0c/1000_1000_102400.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "active"
+    },
+    {
+      "id": "m_f2b75fde",
+      "name": "齊藤京子",
+      "groupId": "hinatazaka46",
+      "portrait": {
+        "imageUrl": "https://www.toho-ent.co.jp/wp-content/uploads/2024/04/1714450450.jpeg"
       },
       "eligible": true,
       "enabled": true,
