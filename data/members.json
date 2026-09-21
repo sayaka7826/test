@@ -1,14 +1,16 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T10:08:53.669Z",
+  "generatedAt": "2026-09-21T12:02:32.208Z",
   "activeCount": 200,
   "members": [
     {
       "id": "m_80fef6a9",
       "name": "前田敦子",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://img.classy-online.jp/wp-content/uploads/2026/03/31114734/20260305_0207-683x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -17,7 +19,9 @@
       "id": "m_83bee491",
       "name": "大島優子",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ogre.natalie.mu/artist/53608/20230105/oshimayuko_art202109.jpg?imwidth=640&imdensity=1"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -26,7 +30,9 @@
       "id": "m_e99932f3",
       "name": "篠田麻里子",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://i.daily.jp/gossip/2026/03/30/Images/d_20183389.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -35,7 +41,9 @@
       "id": "m_8b0aebce",
       "name": "板野友美",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://gakuseishinbun.jp/wp-content/uploads/2024/10/230814-0030-コピー-scaled.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -44,7 +52,9 @@
       "id": "m_97638205",
       "name": "高橋みなみ",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://i.fod.fujitv.co.jp/imf/synth/w=540,h=540,a=0,u=0,f=webp:auto/img/person/W07-1391.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -53,7 +63,9 @@
       "id": "m_8a933924",
       "name": "柏木由紀",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.watanabepro.co.jp/img/profile/20000016.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -62,7 +74,9 @@
       "id": "m_851bd597",
       "name": "小嶋陽菜",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/1/15/2016年AKB48プロフィール_小嶋陽菜.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -71,7 +85,9 @@
       "id": "m_85825ae8",
       "name": "島崎遥香",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/e/e3/2016年AKB48プロフィール_島崎遥香.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -80,7 +96,9 @@
       "id": "m_6fa86e32",
       "name": "山本彩",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/4/4c/2018年NMB48プロフィール_山本彩.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -89,7 +107,9 @@
       "id": "m_3377c40f",
       "name": "渡辺美優紀",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.akb48.co.jp/_static/img/_sousenkyo_6th_member/jp/image_file/179/17%20watanabe%20miyuki.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -98,7 +118,9 @@
       "id": "m_b82d12ef",
       "name": "松井珠理奈",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://contents.oricon.co.jp/upimg/news/20200901/2170904_202009010987224001598949150e.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -107,7 +129,9 @@
       "id": "m_8a11d529",
       "name": "松井玲奈",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://img-maquia.hpplus.jp/common/large/image/20/203ccdaa-7e30-4036-bd9f-79705ef25c98-1200x1200.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -116,7 +140,9 @@
       "id": "m_856cf912",
       "name": "宮脇咲良",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://media.wwdjapan.com/wp-content/uploads/2026/06/02132510/main-10.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -125,7 +151,9 @@
       "id": "m_881f0b8e",
       "name": "指原莉乃",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://contents.oricon.co.jp/upimg/news/2401000/2400503/20250514_141920_p_o_32186217.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -134,7 +162,9 @@
       "id": "m_853d7920",
       "name": "小栗有以",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://d2r1lkk9i7row.cloudfront.net/mobile/member/83100816.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -143,7 +173,9 @@
       "id": "m_81a71419",
       "name": "千葉恵里",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://d2r1lkk9i7row.cloudfront.net/mobile/member/83100927.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -152,7 +184,9 @@
       "id": "m_7fc451c9",
       "name": "伊藤百花",
       "groupId": "akb48",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://d2r1lkk9i7row.cloudfront.net/hashiranokai/member/83101017.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -161,7 +195,9 @@
       "id": "m_bfb12226",
       "name": "桐原美月",
       "groupId": "candytune",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2023/03/kirihara_2025_07_16_CANDY-TUNE_0060_web-819x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -170,7 +206,9 @@
       "id": "m_c7a6523a",
       "name": "福山梨乃",
       "groupId": "candytune",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2023/03/fukuyama_2025_07_16_CANDY-TUNE_0060_web-819x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -179,7 +217,9 @@
       "id": "m_8dd70908",
       "name": "小川奈々子",
       "groupId": "candytune",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2023/03/ogawa_2025_07_16_CANDY-TUNE_0060_web-819x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -188,7 +228,9 @@
       "id": "m_bb891bd4",
       "name": "南なつ",
       "groupId": "candytune",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2023/03/minami_2025_07_16_CANDY-TUNE_0060_web-819x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -197,7 +239,9 @@
       "id": "m_c8c70c99",
       "name": "立花琴未",
       "groupId": "candytune",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2023/03/tachibana_2025_07_16_CANDY-TUNE_0060_web-819x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -206,7 +250,9 @@
       "id": "m_bbb49c7c",
       "name": "宮野静",
       "groupId": "candytune",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2023/03/miyano_2025_07_16_CANDY-TUNE_0060_web-819x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -215,7 +261,9 @@
       "id": "m_bf6373ed",
       "name": "村川緋杏",
       "groupId": "candytune",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2023/03/murakawa_2025_07_16_CANDY-TUNE_0060_web-819x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -224,7 +272,9 @@
       "id": "m_c70acb73",
       "name": "心花りり",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710141902_4192e61b6218148286937fe977451d5d6a5080c6b180a.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -233,7 +283,9 @@
       "id": "m_1e759552",
       "name": "あいす",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710141711_a3b203cde92c12e9328c1b5c3171e3996a50805799c93.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -242,7 +294,9 @@
       "id": "m_d1ffcb7d",
       "name": "福丸うさ",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710141918_865a3309e2fb9f02b90cc1bbe980ac296a5080d68d5f0.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -251,7 +305,9 @@
       "id": "m_d70934fd",
       "name": "若葉のあ",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710141941_2fc90722624dd87b3df54b2adfc835356a5080ed24f92.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -260,7 +316,9 @@
       "id": "m_96460bbe",
       "name": "空詩かれん",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710141833_3c5ed839df51a11602556716c811b0726a5080a94579d.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -269,7 +327,9 @@
       "id": "m_d8988995",
       "name": "虹羽みに",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710141956_3e61505053d870df49f5f3352d65cb3d6a5080fc39a4a.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -278,7 +338,9 @@
       "id": "m_d3d39bb9",
       "name": "純嶺みき",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710142024_90fbd6dae1eb9619de83eb431c8ed4646a508118186a4.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -287,7 +349,9 @@
       "id": "m_c51b76c2",
       "name": "小熊まむ",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710142012_f33fd6572aeb67381c5685fa205de5256a50810c302ed.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -296,7 +360,9 @@
       "id": "m_51ae9672",
       "name": "真守みゅう",
       "groupId": "ilife",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ilife-heroines.com/files/member/member_20260710141649_c84e5cee38cffef35cdcb4d088e464816a50804185e94.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -368,7 +434,9 @@
       "id": "m_1b1040f5",
       "name": "辻野かなみ",
       "groupId": "chotokimeki-sendenbu",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://toki-sen.com/s3/skiyaki/uploads/artist_photo/image/27291/icon_base_kanami.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -378,7 +446,7 @@
       "name": "坂井仁香",
       "groupId": "chotokimeki-sendenbu",
       "portrait": {
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/18/Hitoka_Sakai_on_2022.jpg"
+        "imageUrl": "https://toki-sen.com/s3/skiyaki/uploads/artist_photo/image/27297/icon_base_hitoka.png"
       },
       "eligible": true,
       "enabled": true,
@@ -389,7 +457,7 @@
       "name": "小泉遥香",
       "groupId": "chotokimeki-sendenbu",
       "portrait": {
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Haruka_Koizumi_on_2022.jpg"
+        "imageUrl": "https://toki-sen.com/s3/skiyaki/uploads/artist_photo/image/27294/icon_base_haruka.png"
       },
       "eligible": true,
       "enabled": true,
@@ -399,7 +467,9 @@
       "id": "m_ba3d49e8",
       "name": "吉川ひより",
       "groupId": "chotokimeki-sendenbu",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://toki-sen.com/s3/skiyaki/uploads/artist_photo/image/27304/icon_base_hiyori.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -409,7 +479,7 @@
       "name": "菅田愛貴",
       "groupId": "chotokimeki-sendenbu",
       "portrait": {
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Aki_Suda_on_2022.jpg"
+        "imageUrl": "https://toki-sen.com/s3/skiyaki/uploads/artist_photo/image/27307/icon_base_aki.png"
       },
       "eligible": true,
       "enabled": true,
@@ -455,7 +525,9 @@
       "id": "m_b2facc9d",
       "name": "古澤里紗",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_furusawa-681x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -464,7 +536,9 @@
       "id": "m_b1606986",
       "name": "佐野愛花",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_sano_260129_0539_0227-684x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -473,7 +547,9 @@
       "id": "m_bb6608b5",
       "name": "板倉可奈",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_itakura-683x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -482,7 +558,9 @@
       "id": "m_b52c30c5",
       "name": "増田彩乃",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_masuda_260129_0324_0227-688x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -491,7 +569,9 @@
       "id": "m_b760c030",
       "name": "川本笑瑠",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_kawamoto_0540_0227-683x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -500,7 +580,9 @@
       "id": "m_bc642604",
       "name": "梅田みゆ",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_umeda_260129_0214_0227-685x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -509,7 +591,9 @@
       "id": "m_c37c8ca6",
       "name": "真鍋凪咲",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_manabe_260129_0409_0227-687x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -518,7 +602,9 @@
       "id": "m_bc08f00f",
       "name": "桜庭遥花",
       "groupId": "cutie-street",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2024/07/CS_sakuraba_260129_0305_0226_02-680x1024.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -536,7 +622,9 @@
       "id": "m_7555d18c",
       "name": "齊藤なぎさ",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.joqr.co.jp/wp/wp-content/uploads/105dd18958e21fd142eabd71d8240b0c.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -545,7 +633,9 @@
       "id": "m_9caee423",
       "name": "大谷映美里",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/otani_emiri_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -554,7 +644,9 @@
       "id": "m_56e2c163",
       "name": "大場花菜",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/oba_hana_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -563,7 +655,9 @@
       "id": "m_73828d93",
       "name": "音嶋莉沙",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/otoshima_risa_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -572,7 +666,9 @@
       "id": "m_7643231f",
       "name": "齋藤樹愛羅",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/saito_kiara_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -581,7 +677,9 @@
       "id": "m_e820f583",
       "name": "佐々木舞香",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/sasaki_maika_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -590,7 +688,9 @@
       "id": "m_7fa4e1c3",
       "name": "髙松瞳",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/takamatsu_hitomi_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -599,7 +699,9 @@
       "id": "m_61ef6f16",
       "name": "瀧脇笙古",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/takiwaki_shoko_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -608,7 +710,9 @@
       "id": "m_7093ea51",
       "name": "野口衣織",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/noguchi_iori_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -617,7 +721,9 @@
       "id": "m_6dc90294",
       "name": "諸橋沙夏",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/morohashi_sana_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -626,7 +732,9 @@
       "id": "m_5896375f",
       "name": "山本杏奈",
       "groupId": "equal-love",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://equal-love.jp/image/profile/yamamoto_anna_original.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -635,7 +743,9 @@
       "id": "m_946ad19f",
       "name": "月足天音",
       "groupId": "fruits-zipper",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2022/07/tsukiashi2026_mainthum.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -644,7 +754,9 @@
       "id": "m_6c32276b",
       "name": "鎮西寿々歌",
       "groupId": "fruits-zipper",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2022/07/chinzei2026_mainthum.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -653,7 +765,9 @@
       "id": "m_95486dbd",
       "name": "櫻井優衣",
       "groupId": "fruits-zipper",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2025/09/sakuraiyui_solo_artistphoto.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -662,7 +776,9 @@
       "id": "m_88c763e4",
       "name": "仲川瑠夏",
       "groupId": "fruits-zipper",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2022/07/Luna_Nakagawa_Artistphoto2026_s.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -671,7 +787,9 @@
       "id": "m_9ac76be4",
       "name": "真中まな",
       "groupId": "fruits-zipper",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2022/07/manaka2026_mainthum.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -680,7 +798,9 @@
       "id": "m_ed45015a",
       "name": "松本かれん",
       "groupId": "fruits-zipper",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2022/07/matsumoto2026_mainthum.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -689,7 +809,9 @@
       "id": "m_db1318c4",
       "name": "早瀬ノエル",
       "groupId": "fruits-zipper",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://asobisystem.com/wp-content/uploads/2022/07/hayase2026_mainthum.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -770,7 +892,9 @@
       "id": "m_e5560f62",
       "name": "段原瑠々",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/a2b3daa4bce914e79390b831b2d07794f25c8711013afb04d326a4c1f903e7df.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -779,7 +903,9 @@
       "id": "m_dfcbae9c",
       "name": "工藤由愛",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/7e8e4fb4ed1940643d447043402c2d608606fb95eab4adac8b0bfea4c688363a.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -788,7 +914,9 @@
       "id": "m_e3cbaa7c",
       "name": "松永里愛",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/33651adc13de4fdea9cc1abccbcd83357038244a63a5d870b663826d72cb2563.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -797,7 +925,9 @@
       "id": "m_d8041f09",
       "name": "井上玲音",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/fad44cf225335d8bb3229855186cd7581f1374b2897cdd5e97b99866e59899f2.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -806,7 +936,9 @@
       "id": "m_e39b409d",
       "name": "有澤一華",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/9dba53c8a9727b59059f36c882e9382d5439ae0d360665b3f88555e772b4b7ee.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -815,7 +947,9 @@
       "id": "m_e633cdb2",
       "name": "江端妃咲",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/cb83109019961e1ef51bb17298c474c73a828288d5e5cc63a3c5977b84348d86.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -824,7 +958,9 @@
       "id": "m_d9c0a933",
       "name": "入江里咲",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/55834e3fdb4d9059131de82987f447ddf8d7262cbf4a2aed14787c36248aeaad.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -833,7 +969,9 @@
       "id": "m_eb044b0e",
       "name": "石山咲良",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/e0eaa4036bb06c5f01c7d128a7f4894f799deff905f90c423f464f5a45143561.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -842,7 +980,9 @@
       "id": "m_e0b3aefe",
       "name": "遠藤彩加里",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/bfc27bd5c76b7c204c5623425ae0f568821345a214a0dded06561e9f83e3d806.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -851,7 +991,9 @@
       "id": "m_df31df06",
       "name": "川嶋美楓",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/df2a8790cf9c194c505992a4b26d1e1c7adb07432e9484764df69ad43f1f40c1.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -860,7 +1002,9 @@
       "id": "m_38e2223e",
       "name": "林仁愛",
       "groupId": "juice-juice",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://helloproject.com/upload/images/07e6509f7fc606be4300c713d4b32267b3f6ac4785788b0aafb182f6238d25f0.webp"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -869,7 +1013,9 @@
       "id": "m_3b272353",
       "name": "島村嬉唄",
       "groupId": "kyururintte-shitemite",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.kyurushite.com/wp-content/uploads/2025/09/2607_uta-scaled.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -878,7 +1024,9 @@
       "id": "m_1b00ef9c",
       "name": "環やね",
       "groupId": "kyururintte-shitemite",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.kyurushite.com/wp-content/uploads/2025/09/2607_yane-scaled.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -887,7 +1035,9 @@
       "id": "m_263cd2f0",
       "name": "チバゆな",
       "groupId": "kyururintte-shitemite",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.kyurushite.com/wp-content/uploads/2025/09/2607_yuna-scaled.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -896,7 +1046,9 @@
       "id": "m_e05f6666",
       "name": "逃げ水あむ",
       "groupId": "kyururintte-shitemite",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.kyurushite.com/wp-content/uploads/2025/09/2607_amu-scaled.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -905,7 +1057,9 @@
       "id": "m_366f2f64",
       "name": "兎遊たお",
       "groupId": "kyururintte-shitemite",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://chillingmood.com/wp-content/uploads/2021/01/uyu-tao-3.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -932,7 +1086,9 @@
       "id": "m_b2cc120b",
       "name": "生田絵梨花",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/0/00/2021年乃木坂46プロフィール_生田絵梨花_4.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -941,7 +1097,9 @@
       "id": "m_d4c408b1",
       "name": "生駒里奈",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://ament.co.jp/common/img/talent/ikoma/img_01.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -968,7 +1126,9 @@
       "id": "m_a10e16f4",
       "name": "伊藤万理華",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.asahicom.jp/edu/nogizaka46/img/profile/itoumarika_prof_14apr.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -995,7 +1155,9 @@
       "id": "m_dd355c26",
       "name": "衛藤美彩",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/6/6d/2019年乃木坂46合同会社プロフィール_衛藤美彩.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1067,7 +1229,9 @@
       "id": "m_d4e5bc80",
       "name": "白石麻衣",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://storage.mainichikirei.jp/w=720,h=518,f=webp:auto/images/2018/03/23/20180323dog00m100003000c/001_size6.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1112,7 +1276,9 @@
       "id": "m_dde0e2da",
       "name": "西野七瀬",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://i.daily.jp/gossip/man_in_the_news/2022/06/02/Images/d_15350377.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1130,7 +1296,9 @@
       "id": "m_1347c98a",
       "name": "橋本奈々未",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/4/4f/2016年乃木坂46プロフィール_橋本奈々未_2.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1166,7 +1334,9 @@
       "id": "m_eb45b083",
       "name": "星野みなみ",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/3/3a/2021年乃木坂46プロフィール_星野みなみ_4.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1175,7 +1345,9 @@
       "id": "m_ec2dabdf",
       "name": "松村沙友理",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://www.firstagent.jp/wp-content/uploads/2023/08/profile-matsumura-sayuri-480x720.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1382,7 +1554,9 @@
       "id": "m_c86d6a56",
       "name": "山下美月",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://encount.press/wp-content/uploads/2026/07/25181232/ca3914b996da02a1263e4cdb35b0df30.jpg"
+      },
       "eligible": true,
       "enabled": true,
       "status": "graduated"
@@ -1418,7 +1592,9 @@
       "id": "m_c8e5c637",
       "name": "岩本蓮加",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1445,7 +1621,9 @@
       "id": "m_a1946074",
       "name": "伊藤理々杏",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1472,7 +1650,9 @@
       "id": "m_3949bd89",
       "name": "遠藤さくら",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1481,7 +1661,9 @@
       "id": "m_de81c792",
       "name": "賀喜遥香",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1499,7 +1681,9 @@
       "id": "m_e0ebe90d",
       "name": "金川紗耶",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1526,7 +1710,9 @@
       "id": "m_ce393be0",
       "name": "柴田柚菜",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1535,7 +1721,9 @@
       "id": "m_d40ae7d5",
       "name": "田村真佑",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1544,7 +1732,9 @@
       "id": "m_f7724c3a",
       "name": "筒井あやめ",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1571,7 +1761,9 @@
       "id": "m_e77677e6",
       "name": "黒見明香",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1589,7 +1781,9 @@
       "id": "m_a38cb29d",
       "name": "林瑠奈",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1607,7 +1801,9 @@
       "id": "m_c9f96e8b",
       "name": "弓木奈於",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1616,7 +1812,9 @@
       "id": "m_a32a28f5",
       "name": "井上和",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1625,7 +1823,9 @@
       "id": "m_6c3da8a8",
       "name": "一ノ瀬美空",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1634,7 +1834,9 @@
       "id": "m_d03d4cce",
       "name": "池田瑛紗",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1643,7 +1845,9 @@
       "id": "m_93b5ad47",
       "name": "五百城茉央",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1652,7 +1856,9 @@
       "id": "m_a3786ee6",
       "name": "川﨑桜",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1661,7 +1867,9 @@
       "id": "m_da5dd272",
       "name": "菅原咲月",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1670,7 +1878,9 @@
       "id": "m_c47ffcec",
       "name": "冨里奈央",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1679,7 +1889,9 @@
       "id": "m_96109391",
       "name": "中西アルノ",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1688,7 +1900,9 @@
       "id": "m_2aeb80d9",
       "name": "奥田いろは",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1697,7 +1911,9 @@
       "id": "m_a35eb559",
       "name": "小川彩",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1706,7 +1922,9 @@
       "id": "m_c8dcf48a",
       "name": "岡本姫奈",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1715,7 +1933,9 @@
       "id": "m_cabb57d8",
       "name": "愛宕心響",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1724,7 +1944,9 @@
       "id": "m_32944971",
       "name": "大越ひなの",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1733,7 +1955,9 @@
       "id": "m_c8b4212e",
       "name": "小津玲奈",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1742,7 +1966,9 @@
       "id": "m_d12137cc",
       "name": "海邉朱莉",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1751,7 +1977,9 @@
       "id": "m_c9b8720d",
       "name": "川端晃菜",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1760,7 +1988,9 @@
       "id": "m_e136249f",
       "name": "鈴木佑捺",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1769,7 +1999,9 @@
       "id": "m_63d1181a",
       "name": "瀬戸口心月",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1778,7 +2010,9 @@
       "id": "m_e28df3b7",
       "name": "長嶋凛桜",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1787,7 +2021,9 @@
       "id": "m_200ecb98",
       "name": "増田三莉音",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1796,7 +2032,9 @@
       "id": "m_ce5c01f3",
       "name": "森平麗心",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
@@ -1805,7 +2043,9 @@
       "id": "m_d57a6753",
       "name": "矢田萌華",
       "groupId": "nogizaka46",
-      "portrait": null,
+      "portrait": {
+        "imageUrl": "https://sp.nogizaka46.com/og.png"
+      },
       "eligible": true,
       "enabled": true,
       "status": "active"
