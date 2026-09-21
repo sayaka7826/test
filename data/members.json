@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "datasetVersion": "2026-09-21",
-  "generatedAt": "2026-09-21T13:58:04.449Z",
-  "activeCount": 159,
+  "generatedAt": "2026-09-21T14:08:18.620Z",
+  "activeCount": 164,
   "members": [
     {
       "id": "m_80fef6a9",
@@ -911,7 +911,7 @@
       "name": "伊藤万理華",
       "groupId": "nogizaka46",
       "portrait": {
-        "imageUrl": "https://www.asahicom.jp/edu/nogizaka46/img/profile/itoumarika_prof_14apr.jpg"
+        "imageUrl": "https://storage.mantan-web.jp/w=986,h=1480,f=webp:auto/images/2018/02/20/20180220dog00m200025000c/001_size10.jpg"
       },
       "eligible": true,
       "enabled": true,
@@ -934,6 +934,17 @@
       "groupId": "nogizaka46",
       "portrait": {
         "imageUrl": "https://contents.oricon.co.jp/upimg/news/20190612/2137434_201906120256971001560294017e.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_e4fb3fda",
+      "name": "高山一実",
+      "groupId": "nogizaka46",
+      "portrait": {
+        "imageUrl": "https://48pedia.org/images/f/f3/2024年乃木坂46合同会社プロフィール_高山一実.jpg"
       },
       "eligible": true,
       "enabled": true,
@@ -984,6 +995,17 @@
       "status": "graduated"
     },
     {
+      "id": "m_c6c22a66",
+      "name": "堀未央奈",
+      "groupId": "nogizaka46",
+      "portrait": {
+        "imageUrl": "https://hori-miona.com/static/horimiona/feature/profile/202601/ph_mainImg_top_2601_sp_03_IBaHBTg3.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
       "id": "m_c86d6a56",
       "name": "山下美月",
       "groupId": "nogizaka46",
@@ -1006,6 +1028,28 @@
       "status": "active"
     },
     {
+      "id": "m_c2755f00",
+      "name": "与田祐希",
+      "groupId": "nogizaka46",
+      "portrait": {
+        "imageUrl": "https://yodel-app.com/images/4/44a/293f38be1fee01f76530700148356.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
+      "id": "m_7dbe3cd2",
+      "name": "久保史緒里",
+      "groupId": "nogizaka46",
+      "portrait": {
+        "imageUrl": "https://n46llc-seedandflowerllc.com/images/36/e07/79e4996ba163b6607f57382dd02c9/1000_1000_102400.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
+    },
+    {
       "id": "m_a1946074",
       "name": "伊藤理々杏",
       "groupId": "nogizaka46",
@@ -1015,6 +1059,17 @@
       "eligible": true,
       "enabled": true,
       "status": "active"
+    },
+    {
+      "id": "m_ce691af5",
+      "name": "梅澤美波",
+      "groupId": "nogizaka46",
+      "portrait": {
+        "imageUrl": "https://kasumizaka46.com/storage/nogi/members/umezawa-minami.jpg"
+      },
+      "eligible": true,
+      "enabled": true,
+      "status": "graduated"
     },
     {
       "id": "m_3949bd89",
